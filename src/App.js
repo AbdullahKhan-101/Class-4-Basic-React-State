@@ -1,9 +1,10 @@
 import "./App.css";
+import Room from "./Room";
 
 function App() {
   return (
     <div className="App">
-      <h1>Hello World</h1>
+      <Room />
     </div>
   );
 }
